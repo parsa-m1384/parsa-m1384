@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer%20Engineering%20Student%20%F0%9F%8E%93;Python%20%C2%B7%20Machine%20Learning%20%C2%B7%20Deep%20Learning;Learning%20by%20Building%20%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer%20Engineering%20Student%20%F0%9F%8E%93;Python%20%C2%B7%20ML%20%C2%B7%20Deep%20Learning;Learning%20by%20Building%20%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
 
