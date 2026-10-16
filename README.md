@@ -43,6 +43,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | **Parallel Hanoi GPU** | GPU-accelerated Tower of Hanoi move generation using Python, Numba CUDA, and bitwise algorithms, with CPU/GPU benchmarking and validation. | [View →](https://github.com/parsa-m1384/parallel-hanoi-gpu) |
+| **USD/IRR Bubble Forecasting** | Machine learning time-series analysis using the Prophet model and log transformation to forecast USD/IRR exchange rates and detect market anomalies. | [View →](https://github.com/parsa-m1384/usd-irr-bubble-forecasting) |
 
 ## Connect With Me
 
