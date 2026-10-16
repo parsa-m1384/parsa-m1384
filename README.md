@@ -10,7 +10,6 @@
 
 ## About Me
 
-- **Currently building:** Exploring GPU computing and parallel algorithms with Python and CUDA.
 - **Learning:** Deep Learning, PyTorch, and GPU-accelerated computing.
 - **Open to:** Python projects, machine learning experiments, and open-source tools.
 - **Fun fact:** I enjoy 3D modeling in Blender or tweaking my Arch setup.
